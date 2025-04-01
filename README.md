@@ -41,7 +41,6 @@ A frontend mini-project built with React demonstrating core concepts for managin
 
 ## Project Structure
 
-
 student-management-mini/
 ├── public/ # Static assets
 ├── src/
