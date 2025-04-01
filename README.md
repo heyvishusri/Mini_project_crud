@@ -39,22 +39,7 @@ A frontend mini-project built with React demonstrating core concepts for managin
 *   **Language:** JavaScript (ES6+)
 *   **Data:** Mock data stored in a local JavaScript array (no backend connection).
 
-## Project Structure
 
-student-management-mini/
-├── public/ # Static assets
-├── src/
-│ ├── components/ # Reusable UI (StudentList, StudentForm, StatCard, etc.)
-│ ├── data/ # Mock data definition
-│ ├── pages/ # Page components (HomePage, AddStudentPage, etc.)
-│ ├── App.jsx # Main application: Routing, state management
-│ ├── index.css # Global styles
-│ └── main.jsx # Application entry point
-├── .gitignore
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md # This file
 
 ## Setup and Installation
 
